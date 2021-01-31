@@ -6,6 +6,9 @@ The code provided is in zip format and divided based on the video parts. So plea
        to access the code/folder and then continue.
 
 ## Steps to execute:
+
 1. Download the zip file in-order to access a specfic part or clone the rep to get all part at once
 
-  command : git clone 
+   command : git clone https://github.com/abhishek305/Django-ReactJS-Series.git
+   
+2. Access all zip files at once after cloning repo
